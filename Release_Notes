@@ -19,3 +19,4 @@ Backend:
 	2. Made use of Spring 4 framework modules like IOC, DI, MVC.
 	3. Used Maven as configuration management tool.
 	4. Created Stub class "Select List Helper" to load dummy data. Database connection is not used for this application.
+	5. Used Apache Tomcat 7 as application server.
