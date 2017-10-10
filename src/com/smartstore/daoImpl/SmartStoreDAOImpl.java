@@ -11,6 +11,8 @@ public class SmartStoreDAOImpl implements SmartStoreDAO {
 
 		System.out.println("Inside SmartStoreDAOImpl: loadItems()");
 		
+		//Fetching data from the stub class
+		
 		StoreItemsVO storeItemsVO = new StoreItemsVO();
 		storeItemsVO.setStoreItem(SelectListHelper.loadItemStub());
 		return storeItemsVO;

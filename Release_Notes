@@ -1,0 +1,21 @@
+
+
+About Smart Store:
+
+
+This application is built to support the functionality of automated billing functionality of a electronics retail shop.
+
+It is built using the following mentioned technical Infrastructure;
+
+Frontend:
+	
+	1. Used AngularJS 1.5 as frontend JavaScript framework for rich User Expeience.
+	2. Used Bootstrap 3 framework for CSS enhancement for the betterment of UI and making the application UI Responsive.
+	3. Used HTML and JSP's for creating the DOM.
+
+Backend:
+
+	1. Used JAVA/ J2EE version 1.6 for server side application development.
+	2. Made use of Spring 4 framework modules like IOC, DI, MVC.
+	3. Used Maven as configuration management tool.
+	4. Created Stub class "Select List Helper" to load dummy data. Database connection is not used for this application.
